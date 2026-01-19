@@ -11,7 +11,7 @@
     ./surface.nix
     ./users.nix
     ./packages.nix
-    ./virtualbox.nix
+    ./qemu.nix
   ];
 
   time.timeZone = "America/New_York";
