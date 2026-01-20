@@ -12,5 +12,6 @@
     spotify
     kdePackages.kate
     git
+    mullvad-vpn
   ];
 }
