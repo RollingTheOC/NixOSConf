@@ -13,5 +13,7 @@
     kdePackages.kate
     git
     mullvad-vpn
+    libreoffice-qt
+    hunspell
   ];
 }
