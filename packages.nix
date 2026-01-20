@@ -5,7 +5,7 @@
 
   programs.steam.enable = true;
 
-
+  services.mullvad-vpn.enable = true;
   environment.systemPackages = with pkgs; [
     steam
     discord
