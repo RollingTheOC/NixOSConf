@@ -4,7 +4,7 @@
   programs.firefox.enable = true;
 
   programs.steam.enable = true;
-
+  services.flatpak.enable = true;
   services.mullvad-vpn.enable = true;
   environment.systemPackages = with pkgs; [
     steam
@@ -15,6 +15,5 @@
     mullvad-vpn
     libreoffice-qt
     hunspell
-    parsec-bin
   ];
 }
