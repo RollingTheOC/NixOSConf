@@ -15,5 +15,6 @@
     mullvad-vpn
     libreoffice-qt
     hunspell
+    parsec-bin
   ];
 }
