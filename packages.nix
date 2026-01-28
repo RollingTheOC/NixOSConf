@@ -6,6 +6,7 @@
   programs.steam.enable = true;
   services.flatpak.enable = true;
   services.mullvad-vpn.enable = true;
+  programs.localsend.enable = true;
   environment.systemPackages = with pkgs; [
     steam
     discord
